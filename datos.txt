@@ -1,0 +1,8 @@
+Apple Account
+usr: itsupport@proveedoradeclimas.com
+pass: Passw0rd$Ul3$0fT
+
+
+Google Developer
+usr: proveedora.ti@gmail.com
+pass: Passw0rd$
